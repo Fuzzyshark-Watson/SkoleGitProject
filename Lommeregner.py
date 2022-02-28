@@ -1,3 +1,13 @@
+"""
+Fil-struktur: Tildele passende filer til passende mapper
+Repo: For at holde alt skolerelateret samlet, vælges samme repo
+Adgangskontrol: Privat repo med contributer
+Struktur i filer:
+    - Navngivning: Tilpasset navn af fil der indikere hvad filen/metoden gør
+    - Kommentar: Bruges til at forklare hvad en metode eller funktion gør, eller hvordan den fungere.
+    - Variabler/Metoder: Navngiv dem efter funktionalitit
+"""
+
 class Lommeregner(object):
     def __init__(self, num1, num2):
         self.num1 = num1
