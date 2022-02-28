@@ -5,7 +5,10 @@ Adgangskontrol: Privat repo med contributer
 Struktur i filer:
     - Navngivning: Tilpasset navn af fil der indikere hvad filen/metoden gør
     - Kommentar: Bruges til at forklare hvad en metode eller funktion gør, eller hvordan den fungere.
-    - Variabler/Metoder: Navngiv dem efter funktionalitit
+    - Variabler/Metoder: Navngiv dem efter funktionalitet
+Commit besked: Hvad committet har ændret
+Branch: Flere kan arbejde på samme projekt uden at redigere på det oprindelige projekt
+Code review: Fungere de forskellige branches sammen og kan merges til main
 """
 
 class Lommeregner(object):
