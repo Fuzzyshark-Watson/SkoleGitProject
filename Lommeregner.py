@@ -12,6 +12,9 @@ Code review: Fungere de forskellige branches sammen og kan merges til main
 """
 
 class Lommeregner(object):
+    """
+    Gud Bevare Danmark
+    """
     def __init__(self, num1, num2):
         self.num1 = num1
         self.num2 = num2
