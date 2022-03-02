@@ -1,0 +1,17 @@
+Skriv ned individuelt
+Hvad betyder det? Ud fra jeres intuition beskriv:
+Hvad er formålet med dokumentation?
+Dokumentation er en tilstrækkelig beskrivelse af materialet så den forventede målgruppe hurtigst muligt kan danne overblik og forståelse for kodens funktion.
+
+Hvordan vil I gribe det an hvis i skulle beskrive et program og begrunde jeres valg?
+Generelt dokumentere hvad det var og hvordan det skulle bruges således at det med pseudo kode gav mening, men på længere sigt er det nok mere om at skrive koden således at det kan læses på dets interne navne.
+
+Hvilke værktøjer vil I bruge
+// for det meste?
+
+15 minutter i grupper
+Skrive gruppemedlemmers navne ned øverst
+Watson
+Skriv stikord ned
+Dokumentation, Informationsstyrrelse, ease of use, cooperation
+Lig tekst filen i alle jeres repository
