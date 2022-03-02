@@ -1,0 +1,96 @@
+i++; //increment i
+
+// according to the Win98 docs, this should be 1
+// according to the WinNT docs, this should be 2
+// they are both wrong!
+
+// This is a stupid class that I wrote under duress. I apologize to // all affected.
+
+// Yesterday I had a scare,
+// I ran some code that wasn't there,
+//  It wasn't there again today;
+//  Oh, how I wish that it would stay.
+
+// We don't really need to do this, as the environment will keep track
+// of it and clean up for us. But we're tidy Kiwis round here, aren't we?
+
+// Bits 6, 5, and 4 must be 0, 1, and 0 respectively.
+// Otherwise, the oscillator burns crazy evil crack.
+
+//The below code needs to be commented out.
+
+// I dedicate all this code, all my work, to my wife, Darlene, who 
+//will have to support me and our three children and the dog once it 
+//gets released into the public.
+
+// I am not responsible of this code.
+// They made me write it, against my will.
+
+// Dear maintainer:
+// 
+// Once you are done trying to 'optimize' this routine,
+// and have realized what a terrible mistake that was,
+// please increment the following counter as a warning
+// to the next guy:
+// 
+// total_hours_wasted_here = 42
+
+# To understand recursion, see the bottom of this file
+At the bottom of the file
+# To understand recursion, see the top of this file
+
+//private instance variable for storing age
+public static int age;
+
+/* You are not meant to understand this */
+
+/*
+* TODO: Remove this function
+
+function remove($customer_id)
+    {
+        $this->Customer->remove($id);
+    } */
+
+//When I wrote this, only God and I understood what I was doing
+//Now, God only knows
+
+// This comment is self explanatory.
+
+/**
+* For the brave souls who get this far: You are the chosen ones,
+* the valiant knights of programming who toil away, without rest,
+* fixing our most awful code. To you, true saviors, kings of men,
+* I say this: never gonna give you up, never gonna let you down,
+* never gonna run around and desert you. Never gonna make you cry,
+* never gonna say goodbye. Never gonna tell a lie and hurt you.
+*/
+
+int MyFunction()
+{
+    // There once was a man named Dave
+    int Result = 0;
+
+    // Whose code just wouldn't behave
+    MyObject *Ptr = new MyObject();
+
+    // He left to go to a meetin'
+    Result = Ptr->DoSomething();
+
+    // And left his memory a leakin'
+    return Result;
+}
+
+/*
+ *  'schedule()' is the scheduler function. It's a very simple and nice
+ * scheduler: it's not perfect, but certainly works for most things.
+ * The one thing you might take a look at is the signal-handler code here.
+ *
+ *   NOTE!!  Task 0 is the 'idle' task, which gets called when no other
+ * tasks can run. It can not be killed, and it cannot sleep. The 'state'
+ * information in task[0] is never used.
+ *
+ * The "confuse_gcc" goto is used only to get better assembly code..
+ * Dijkstra probably hates me.
+ */
+asmlinkage void schedule(void)
